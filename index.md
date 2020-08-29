@@ -13,7 +13,18 @@ title: Home
 
 이 블로그를 봐주시는 분들에게도 도움이 되었으면 하는 바람입니다.
 
-궁금한 부분이나 피드백,
+궁금한 부분이나 피드백, 혹은 고쳐야 할 부분이 있다면 주저하지 말고 연락주세요!
+
+
+<br><br><br>
+
+Hi there! Welcome to James' Dev Log.
+
+This is a place where I keep things that I study.
+
+Hopefully, they could be helpful to you too!
+
+I appreciate all types of feedbacks so don't hesitate!
 
 <!--
 <div class="posts">
