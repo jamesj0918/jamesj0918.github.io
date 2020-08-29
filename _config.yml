@@ -2,7 +2,7 @@
 title:               James' Dev log
 tagline:             '&nbsp;Personal Dev Blog'
 description:         ''
-url:                 https://jamesj0918.github.io/
+url:                 https://jamesj0918.github.io
 baseurl:             '/'
 production_url:      https://jamesj0918.github.io/
 paginate:            5
