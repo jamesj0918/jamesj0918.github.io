@@ -1,6 +1,6 @@
 # Setup
 title:               James' Dev log
-tagline:             'Personal Dev Blog'
+tagline:             '&nbsp;Personal Dev Blog'
 description:         ''
 url:                 https://jamesj0918.github.io/
 baseurl:             '/'
@@ -23,4 +23,3 @@ version:             1.0
 google_analytics_id: UA-176741319-1
 
 markdown: kramdown
-disqus: true
