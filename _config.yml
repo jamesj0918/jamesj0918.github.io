@@ -3,15 +3,16 @@ title:               James' Dev log
 tagline:             'Personal Dev Blog'
 description:         ''
 url:                 https://jamesj0918.github.io/
-baseurl:             ''
+baseurl:             '/'
+production_url:      https://jamesj0918.github.io/
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              James Jung
+  url:               
+  email:             jamesj0107@naver.com
 
 # Gems
 plugins:
