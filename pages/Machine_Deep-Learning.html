@@ -1,0 +1,18 @@
+---
+layout: page
+title: Machine/Deep Learning
+---
+<br>
+
+{% for post in site.posts reversed %}
+  {% if post.categories contains "ML" or "DL" %}
+  <div>
+    <h3 style="display: inline-block;">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a> 
+      <h6 style="display: inline-block; margin-left: 0.5em;">{{ post.date | date_to_string }}</h6>
+    </h3>
+  </div>
+  {% endif %}
+{% endfor %}
