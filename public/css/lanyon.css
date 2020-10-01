@@ -35,6 +35,11 @@
  */
 
 /* Prevent scroll on narrow devices */
+
+@import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+
 html,
 body {
   overflow-x: hidden;
@@ -44,8 +49,31 @@ html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
+small {
+  font-family: "Noto Sans KR", sans-serif !important;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+span {
+  font-family: "Noto Sans KR", sans-serif !important;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+p {
+  font-family: "Noto Sans KR", sans-serif !important;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans KR", sans-serif !important;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -148,7 +176,10 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans KR", sans-serif !important;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -363,7 +394,10 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans KR", sans-serif !important;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
   color: #ccc;
   text-align: center;
 }
