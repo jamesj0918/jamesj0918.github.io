@@ -49,26 +49,13 @@ html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
-small {
+small, span, li, ol, ul, p {
   font-family: "Noto Sans KR", sans-serif !important;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
 
-span {
-  font-family: "Noto Sans KR", sans-serif !important;
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
-p {
-  font-family: "Noto Sans KR", sans-serif !important;
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
 h1, h2, h3, h4, h5, h6 {
   font-family: "Noto Sans KR", sans-serif !important;
   -webkit-box-sizing: border-box;

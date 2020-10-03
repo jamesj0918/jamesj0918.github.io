@@ -144,9 +144,12 @@ abbr[title] {
 }
 
 /* Code */
+
+@import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: "D2 Coding";
 }
 code {
   padding: .25em .5em;
